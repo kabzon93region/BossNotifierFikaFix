@@ -17,7 +17,7 @@ git init
 git add .
 git commit -m "Source backup BossNotifier Fika Fix v1.0.0"
 git branch -M main
-git remote add origin https://github.com/${GITHUB_OWNER:-YOUR_GITHUB_USER}/BossNotifierFikaFix.git
+git remote add origin https://github.com/kabzon93region/BossNotifierFikaFix.git
 git push -u origin main
 ```
 
