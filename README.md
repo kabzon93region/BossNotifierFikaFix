@@ -2,15 +2,127 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 **GitHub:** [kabzon93region](https://github.com/kabzon93region)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Fix для **BossNotifier** + **Fika** / **headless** coop.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 **GUID:** `com.dematch.bossnotifier-fika`  
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 **Путь:** `BepInEx/plugins/BossNotifierFikaFix.dll`
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -18,15 +130,127 @@ Fix для **BossNotifier** + **Fika** / **headless** coop.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 | Мод | Путь |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 |-----|------|
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 | BossNotifier | `BepInEx/plugins/BossNotifier.dll` |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 | BossNotifier Fika Sync | `BepInEx/plugins/BossNotifier.Fika.dll` |
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 | Fika | `BepInEx/plugins/Fika/` |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -34,7 +258,63 @@ Fix для **BossNotifier** + **Fika** / **headless** coop.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Поставить на **headless-хост и каждого клиента** (тот же набор, что BossNotifier).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -42,19 +322,159 @@ Fix для **BossNotifier** + **Fika** / **headless** coop.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 `BepInEx/LogOutput.log`:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 BossNotifier Fika Fix v1.0.0 loaded
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 [BOSSNOTIFIER_FIKA] Packets registered
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 [BOSSNOTIFIER_FIKA] Received BossCatalogPacket entries=...
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -62,20 +482,160 @@ BossNotifier Fika Fix v1.0.0 loaded
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Сборка / релиз
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
 ```powershell
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 python pack_bossnotifier_fikafix.py
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ```
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Поддержать проект
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Разовый донат картой РФ, СБП, ЮMoney, VK Pay:  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 **[DonationAlerts → kabzon93region](https://www.donationalerts.com/r/kabzon93region)**
