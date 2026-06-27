@@ -31,10 +31,10 @@ python CURSORAIMODING/tools/publish/publish_github_release.py BossNotifierFikaFi
 
 Прикрепить zip (только игровые файлы, без INSTALL.md):
 
-`\\Servant\data\Games\EscapeFromTarkov4\CURSORAIMODING\releases\BossNotifierFikaFix_(headless_all)_v1.0.0_2026-06-26.zip`
+`\\Servant\data\Games\EscapeFromTarkov4\CURSORAIMODING\releases\BossNotifierFikaFix_(headless_all)_v1.0.0_2026-06-27.zip`
 
 ```powershell
-gh release create v1.0.0 "\\Servant\data\Games\EscapeFromTarkov4\CURSORAIMODING\releases\BossNotifierFikaFix_(headless_all)_v1.0.0_2026-06-26.zip" ^
+gh release create v1.0.0 "\\Servant\data\Games\EscapeFromTarkov4\CURSORAIMODING\releases\BossNotifierFikaFix_(headless_all)_v1.0.0_2026-06-27.zip" ^
   --title "BossNotifier Fika Fix v1.0.0" ^
   --notes-file CHANGELOG.md
 ```
